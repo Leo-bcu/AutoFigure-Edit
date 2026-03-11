@@ -271,7 +271,7 @@ Scan the QR code to join our community. If the code is expired, please add WeCha
 
 ## 📜 Citation & License
 
-If you find **AutoFigure** or **FigureBench** helpful, please cite:
+If you find **AutoFigure-Edit** or **FigureBench** helpful, please cite:
 
 ```bibtex
 @misc{lin2026autofigureeditgeneratingeditablescientific,
