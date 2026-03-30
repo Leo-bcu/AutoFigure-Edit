@@ -94,15 +94,20 @@ PROVIDER_CONFIGS = {
         "default_image_model": "google/gemini-3-pro-image-preview",
         "default_svg_model": "google/gemini-3.1-pro-preview",
     },
-    "bianxie": {
-        "base_url": "https://api.bianxie.ai/v1",
-        "default_image_model": "gemini-3-pro-image-preview",
-        "default_svg_model": "gemini-3.1-pro-preview",
-    },
+    # "bianxie": {
+    #     "base_url": "https://api.bianxie.ai/v1",
+    #     "default_image_model": "gemini-3-pro-image-preview",
+    #     "default_svg_model": "gemini-3.1-pro-preview",
+    # },
     "gemini": {
         "base_url": "https://generativelanguage.googleapis.com/v1beta",
         "default_image_model": "gemini-3-pro-image-preview",
         "default_svg_model": "gemini-3.1-pro",
+    },
+    "bianxie": {
+        "base_url": "https://new.lemonapi.site/v1",
+        "default_image_model": "[L]gemini-3-pro-image-preview",
+        "default_svg_model": "[L]gemini-3.1-pro-preview",
     },
 }
 
